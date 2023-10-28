@@ -1,0 +1,290 @@
+[
+	{
+		"code" : 1000,
+		"day" : "./images/sunny.jpg",
+		"night" : "./images/clear night.jpg",
+		"icon" : 113
+	},
+	{
+		"code" : 1003,
+		"day" : "./images/cloudy.jpg",
+		"night" : "./images/cloudy night.jpg",
+		"icon" : 116
+	},
+	{
+		"code" : 1006,
+		"day" : "./images/cloudy.jpg",
+		"night" : "./images/cloudy night.jpg",
+		"icon" : 119
+	},
+	{
+		"code" : 1009,
+		"day" : "./images/overcast.jpg",
+		"night" : "./images/overcast night.jpg",
+		"icon" : 122
+	},
+	{
+		"code" : 1030,
+		"day" : "./images/overcast.jpg",
+		"night" : "./images/overcast night.jpg",
+		"icon" : 143
+	},
+	{
+		"code" : 1063,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 176
+	},
+	{
+		"code" : 1066,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 179
+	},
+	{
+		"code" : 1069,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 182
+	},
+	{
+		"code" : 1072,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 185
+	},
+	{
+		"code" : 1087,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 200
+	},
+	{
+		"code" : 1114,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 227
+	},
+	{
+		"code" : 1117,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 230
+	},
+	{
+		"code" : 1135,
+		"day" : "./images/fog.jpg",
+		"night" : "./images/fog night.jpg",
+		"icon" : 248
+	},
+	{
+		"code" : 1147,
+		"day" : "./images/fog.jpg",
+		"night" : "./images/fog night.jpg",
+		"icon" : 260
+	},
+	{
+		"code" : 1150,
+		"day" : "Patchy light drizzle",
+		"night" : "Patchy light drizzle",
+		"icon" : 263
+	},
+	{
+		"code" : 1153,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 266
+	},
+	{
+		"code" : 1168,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 281
+	},
+	{
+		"code" : 1171,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 284
+	},
+	{
+		"code" : 1180,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 293
+	},
+	{
+		"code" : 1183,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 296
+	},
+	{
+		"code" : 1186,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 299
+	},
+	{
+		"code" : 1189,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 302
+	},
+	{
+		"code" : 1192,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 305
+	},
+	{
+		"code" : 1195,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 308
+	},
+	{
+		"code" : 1198,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 311
+	},
+	{
+		"code" : 1201,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 314
+	},
+	{
+		"code" : 1204,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 317
+	},
+	{
+		"code" : 1207,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 320
+	},
+	{
+		"code" : 1210,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 323
+	},
+	{
+		"code" : 1213,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 326
+	},
+	{
+		"code" : 1216,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 329
+	},
+	{
+		"code" : 1219,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 332
+	},
+	{
+		"code" : 1222,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 335
+	},
+	{
+		"code" : 1225,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 338
+	},
+	{
+		"code" : 1237,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 350
+	},
+	{
+		"code" : 1240,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 353
+	},
+	{
+		"code" : 1243,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 356
+	},
+	{
+		"code" : 1246,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 359
+	},
+	{
+		"code" : 1249,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 362
+	},
+	{
+		"code" : 1252,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 365
+	},
+	{
+		"code" : 1255,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 368
+	},
+	{
+		"code" : 1258,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 371
+	},
+	{
+		"code" : 1261,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 374
+	},
+	{
+		"code" : 1264,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 377
+	},
+	{
+		"code" : 1273,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 386
+	},
+	{
+		"code" : 1276,
+		"day" : "./images/rainy.jpg",
+		"night" : "./images/rainy night.jpg",
+		"icon" : 389
+	},
+	{
+		"code" : 1279,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 392
+	},
+	{
+		"code" : 1282,
+		"day" : "./images/snowy.jpg",
+		"night" : "./images/snowy night.jpg",
+		"icon" : 395
+	}
+]

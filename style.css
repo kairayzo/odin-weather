@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-image: url(./images/sunny.jpg);
+    -webkit-transition: background-image 0.8s ease-in-out;
+    transition: background-image 0.8s ease-in-out;
+}
+
+.filter {
+    background-color: rgba(0,0,0,0.1);
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}
+
+.container {
+    padding: 2rem;
+    max-height: 600px;
+    display: grid;
+    grid-template-areas: 
+    'searchbar'
+    'dashboard';
+    grid-template-rows: 1fr 1fr;
+    transition: opacity 0.8s ease-in-out
+}
+
+
+
+.searchbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    grid-area: searchbar;
+}
+
+form {
+    /* opacity: 0.3; */
+    width: 50vw;
+    max-width: 600px;
+    display: flex;
+    gap: 1rem;
+}
+
+form:hover {
+    opacity: 1;
+}
+
+form input {
+    padding: 0.5rem 1rem;
+    color: white;
+    border-color: white;
+    flex-grow: 1;
+    font-size: 1.4rem;
+    background: none;
+}
+
+form input:focus {
+    outline: none;
+    opacity: 1;
+}
+
+form input::placeholder {
+    color: white;
+    opacity: 1; 
+  }
+
+form button {
+    color: white;
+    border-color: white;
+    font-size: 1.2rem;
+    padding: 0rem 1rem;
+    background: none;
+    /* border: none; */
+    cursor: pointer;
+}
+
+.clock {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.time {
+    font-size: 10rem;
+}
+
+.location {
+    font-size: 2rem;
+}
+
+.dashboard-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashboard {
+    width: 100%;
+    max-width: 1000px;
+    padding: 1rem;
+    grid-area: dashboard;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    gap: 1rem;
+}
+
+.today {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.today-temp {
+    font-size: 5rem;
+}
+
+.today-weather {
+    font-size: 1.2rem;
+    padding-left: 0.5rem;
+}
+
+.today-feelslike {
+    font-size: 1.2rem;
+    padding-left: 0.5rem;
+}
+
+.forecast {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 1rem;
+}
+
+.day {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.date {
+    font-size: 1rem;
+}
+
+.icon {
+    width: 3rem;
+    height: 3rem;
+
+}
+
+.temp {
+    font-size: 2rem;
+}

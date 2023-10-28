@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WeatherDaily</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="filter"></div>
+    <div class="container">
+        <div class="searchbar">
+            <form action="">
+                <input type="text" list="suggestions" placeholder="Location" id="searchfield">
+                <button>Search</button>
+                <datalist id="suggestions"></datalist>
+            </form>
+            <div class="clock">
+                <div class="time"></div>
+                <div class="location"></div>
+            </div>
+        </div>
+        <div class="dashboard-container">
+            <div class="dashboard">
+                <div class="today">
+                    <div class="today-temp"></div>
+                    <div class="today-weather"></div>
+                    <div class="today-feelslike"></div>
+                </div>
+                <div class="forecast">
+                    <div class="day">
+                        <div class="date"></div>
+                        <img class="icon" src="//cdn.weatherapi.com/weather/64x64/night/296.png" alt="">
+                        <div class="temp"></div>
+                        <div class="weather"></div>
+                    </div>
+                    <div class="day">
+                        <div class="date"></div>
+                        <img class="icon" src="//cdn.weatherapi.com/weather/64x64/night/296.png" alt="">
+                        <div class="temp"></div>
+                        <div class="weather"></div>
+                    </div>
+                    <div class="day">
+                        <div class="date"></div>
+                        <img class="icon" src="//cdn.weatherapi.com/weather/64x64/night/296.png" alt="">
+                        <div class="temp"></div>
+                        <div class="weather"></div>
+                    </div>
+                    <div class="day">
+                        <div class="date"></div>
+                        <img class="icon" src="//cdn.weatherapi.com/weather/64x64/night/296.png" alt="">
+                        <div class="temp">14°/3°</div>
+                        <div class="weather"></div>
+                    </div>
+                    <div class="day">
+                        <div class="date"></div>
+                        <img class="icon" src="//cdn.weatherapi.com/weather/64x64/night/296.png" alt="">
+                        <div class="temp"></div>
+                        <div class="weather"></div>
+                    </div>
+                    <div class="day">
+                        <div class="date"></div>
+                        <img class="icon" src="//cdn.weatherapi.com/weather/64x64/night/296.png" alt="">
+                        <div class="temp"></div>
+                        <div class="weather"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
